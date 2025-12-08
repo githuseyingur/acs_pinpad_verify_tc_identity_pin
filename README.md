@@ -38,8 +38,4 @@ If this response is *90 00*, it means that the pin verification process was succ
 
 
 Complete list of APDU responses : https://www.eftlab.com/knowledge-base/complete-list-of-apdu-responses
-
-<br> <br>
-<br> <br>
-
-##### Thanks to Muhammed Hoşgör : https://github.com/muhammedhosgor
+<br>
